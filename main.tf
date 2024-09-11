@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "rg" {
 
-  name     = "test-branch00"
+  name     = "test-branch000"
   location =  "West Europe"
 }
